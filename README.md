@@ -1,8 +1,27 @@
-# ABTesting
-Hypothesis testing and A/B Testing
+# A/B Testing
+
+A/B testing in marketing allows you to make the most out of your existing traffic.
+
+CRO: Conversion Rate Optimization
+
+Industry application:
+
+- Landing-page optimization
+
+- Ad creative optimization 如何选择广告的形式和内容。当我们决定将要进行广告展示，以及确定了广告的价格后，在这个广告位上选择放置什么广告呢？我们需要对大量的决策进行测试，选出正确的广告创意组合。
+
+⚠️要解决的问题：
+
+- 怎样验证对照Control Group和实验组Treatment Group的用户的行为是无偏差、完全相同的
+
+- 当两个组的用户行为不完全相同时（例如分组不够随机或者组内用户数量较小时），该如何设计AB测试以实现期望的验证结果
+
+- 当用户基础行为受其他因素影响发生整体变化了呢？例如季节、时间波动、热度等因素影响下，怎样更好的剔除干扰来评估结果
 
 
-假设检验: null hypothesis都是没用，没影响，无差别；alternative hypothesis反之。
+
+
+假设检验: null hypothesis或其临界的意思都是没用，没影响，无差别。
 
 一个完整的A/B testing：
 
