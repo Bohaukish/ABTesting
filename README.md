@@ -1,4 +1,5 @@
 A/B Split Testing Tools https://vwo.com/blog/15-free-ab-split-testing-resources/ 
+
 深度好文：
 
 https://vwo.com/ab-testing/?utm_source=google&utm_medium=paid&utm_campaign=mof_ca_search_category_ab-testing_educational&utm_content=483088283016&utm_term=ab%20testing&gclid=CjwKCAiAi_D_BRApEiwASslbJ-xT-VSOrb9BmGktXKSsL-g8ZdqoT5Fe-h5nZepF6VvxsFlEgcv4vhoChzgQAvD_BwE
@@ -49,20 +50,3 @@ Industry application:
 
 - 当用户基础行为受其他因素影响发生整体变化了呢？例如季节、时间波动、热度等因素影响下，怎样更好的剔除干扰来评估结果
 
-
-
-一个完整的A/B testing：
-
-1、分析现状，建立假设：分析业务，确定最高优先级的改进点，作出假设，提出优化建议。
-
-2、设定指标：设置主要指标来衡量版本的优劣；设置辅助指标来评估其他影响。
-
-3、设计与开发：设计优化版本的原型并完成开发。
-
-4、确定测试时长：确定测试进行的时长。
-
-5、确定分流方案：确定每个测试版本的分流比例及其他分流细节。
-
-6、采集并分析数据：收集实验数据，进行有效性和效果判断。
-
-7、给出结论：①确定发布新版本；②调整分流比例继续测试；③优化迭代方案重新开发，回到步骤1。
